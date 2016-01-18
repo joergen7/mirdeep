@@ -1,0 +1,7 @@
+name 'mirdeep'
+maintainer 'The Authors'
+maintainer_email 'you@example.com'
+license 'all_rights'
+description 'Installs/Configures mirdeep'
+long_description 'Installs/Configures mirdeep'
+version '0.1.0'
